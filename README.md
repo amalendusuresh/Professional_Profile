@@ -9,7 +9,7 @@
 ## Professional Profiles
 🌐 Connect with me on other professional platforms:
 
--  **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/amalendu-s-23a680130)
-- **GitHub:** [Your GitHub Profile](https://github.com/amalendusuresh)
+-  **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/amalendu-s-23a680130)
+- **GitHub:** [GitHub Profile](https://github.com/amalendusuresh)
 - **Portfolio Website:** [Your Portfolio Website](https://www.your-portfolio.com)
 
