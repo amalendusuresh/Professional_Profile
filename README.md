@@ -2,6 +2,7 @@
 
 ## Resume
 📄 You can find my latest resume in this repository. Feel free to download and review it.
+- **[Download Resume](resume.pdf)**
 
 ## Online Resume
 🌐 Check out my online resume [here](https://www.notion.so/Professional-Profile-435b51ff82b648fda1e61bc98405ca87).
