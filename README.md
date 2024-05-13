@@ -1,4 +1,5 @@
 # Professional Profile
+This repository serves as a comprehensive collection of my professional profile, including my resume, portfolio, and links to various professional platforms.
 
 ## Resume
 📄 You can find my latest resume in this repository. Feel free to download and review it.
@@ -15,6 +16,9 @@
 
 -  **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/amalendu-s-23a680130)
 - **GitHub:** [GitHub Profile](https://github.com/amalendusuresh)
+- **Twitter:** [Twitter Profile](https://twitter.com/palakkatil)
+- **Medium:** [Medium Profile](https://medium.com/@amalenduvishnu)
+- **Telegram:** [Medium Profile](https://t.me/AmalenduSuresh)
 - **Portfolio Website:** [Your Portfolio Website](https://www.your-portfolio.com)
 
 
